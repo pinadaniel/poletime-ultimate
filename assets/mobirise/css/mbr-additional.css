@@ -701,8 +701,43 @@ a {
     text-align: center;
   }
 }
+.cid-tkH3dbojTx {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tkH3dbojTx .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkH3dbojTx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tkH3dbojTx ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tkH3dbojTx li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tkH3dbojTx ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #40b0bf;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-tkx5sdgTDq {
-  padding-top: 10rem;
+  padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
