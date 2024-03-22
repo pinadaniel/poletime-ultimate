@@ -682,6 +682,348 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-s48OLK6784 {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+}
+.cid-s48OLK6784 nav.navbar {
+  position: fixed;
+}
+.cid-s48OLK6784 .dropdown-item:before {
+  font-family: Moririse2 !important;
+  content: '\e966';
+  display: inline-block;
+  width: 0;
+  position: absolute;
+  left: 1rem;
+  top: 0.5rem;
+  margin-right: 0.5rem;
+  line-height: 1;
+  font-size: inherit;
+  vertical-align: middle;
+  text-align: center;
+  overflow: hidden;
+  transform: scale(0, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-s48OLK6784 .dropdown-menu {
+  padding: 0;
+}
+.cid-s48OLK6784 .dropdown-item {
+  border-bottom: 1px solid #e6e6e6;
+}
+.cid-s48OLK6784 .dropdown-item:hover,
+.cid-s48OLK6784 .dropdown-item:focus {
+  background: #40b0bf !important;
+  color: white !important;
+}
+.cid-s48OLK6784 .nav-dropdown .link {
+  padding: 0 0.3em !important;
+  margin: .667em 1em !important;
+}
+.cid-s48OLK6784 .nav-dropdown .link.dropdown-toggle::after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+}
+.cid-s48OLK6784 .nav-link {
+  position: relative;
+}
+.cid-s48OLK6784 .container {
+  display: flex;
+  margin: auto;
+}
+.cid-s48OLK6784 .iconfont-wrapper {
+  color: #000000 !important;
+  font-size: 1.5rem;
+  padding-right: .5rem;
+}
+.cid-s48OLK6784 .navbar-caption {
+  padding-right: 4rem;
+}
+.cid-s48OLK6784 .dropdown-menu,
+.cid-s48OLK6784 .navbar.opened {
+  background: #ffffff !important;
+}
+.cid-s48OLK6784 .nav-item:focus,
+.cid-s48OLK6784 .nav-link:focus {
+  outline: none;
+}
+.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item {
+  width: auto;
+  transition: all 0.25s ease-in-out;
+}
+.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item::after {
+  right: 0.5rem;
+}
+.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item .mbr-iconfont {
+  margin-left: -1.8rem;
+  padding-right: 1rem;
+  font-size: inherit;
+}
+.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item .mbr-iconfont:before {
+  display: inline-block;
+  transform: scale(1, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-s48OLK6784 .collapsed .dropdown-menu .dropdown-item:before {
+  display: none;
+}
+.cid-s48OLK6784 .collapsed .dropdown .dropdown-menu .dropdown-item {
+  padding: 0.235em 1.5em 0.235em 1.5em !important;
+  transition: none;
+  margin: 0 !important;
+}
+.cid-s48OLK6784 .navbar {
+  min-height: 77px;
+  transition: all .3s;
+  border-bottom: 1px solid transparent;
+  background: #ffffff;
+}
+.cid-s48OLK6784 .navbar:not(.navbar-short) {
+  border-bottom: 1px solid #e6e6e6;
+}
+.cid-s48OLK6784 .navbar.opened {
+  transition: all .3s;
+}
+.cid-s48OLK6784 .navbar .dropdown-item {
+  padding: .5rem 1.8rem;
+}
+.cid-s48OLK6784 .navbar .navbar-logo img {
+  width: auto;
+}
+.cid-s48OLK6784 .navbar .navbar-collapse {
+  justify-content: flex-end;
+  z-index: 1;
+}
+.cid-s48OLK6784 .navbar.collapsed .nav-item .nav-link::before {
+  display: none;
+}
+.cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
+  top: 0;
+}
+@media (min-width: 992px) {
+  .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
+.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
+  left: 0 !important;
+}
+.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-item:after {
+  right: auto;
+}
+.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+  border-top: 0.35em solid;
+  border-right: 0.35em solid transparent;
+  border-left: 0.35em solid transparent;
+  border-bottom: 0;
+  top: 55%;
+}
+.cid-s48OLK6784 .navbar.collapsed ul.navbar-nav li {
+  margin: auto;
+}
+.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-item {
+  padding: .25rem 1.5rem;
+  text-align: center;
+}
+.cid-s48OLK6784 .navbar.collapsed .icons-menu {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+@media (max-width: 991px) {
+  .cid-s48OLK6784 .navbar .nav-item .nav-link::before {
+    display: none;
+  }
+  .cid-s48OLK6784 .navbar.opened .dropdown-menu {
+    top: 0;
+  }
+  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-submenu {
+    left: 0 !important;
+  }
+  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-item:after {
+    right: auto;
+  }
+  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+    border-top: 0.35em solid;
+    border-right: 0.35em solid transparent;
+    border-left: 0.35em solid transparent;
+    border-bottom: 0;
+    top: 55%;
+  }
+  .cid-s48OLK6784 .navbar .navbar-logo img {
+    height: 3.8rem !important;
+  }
+  .cid-s48OLK6784 .navbar ul.navbar-nav li {
+    margin: auto;
+  }
+  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-item {
+    padding: .25rem 1.5rem !important;
+    text-align: center;
+  }
+  .cid-s48OLK6784 .navbar .navbar-brand {
+    flex-shrink: initial;
+    flex-basis: auto;
+    word-break: break-word;
+    padding-right: 2rem;
+  }
+  .cid-s48OLK6784 .navbar .navbar-toggler {
+    flex-basis: auto;
+  }
+  .cid-s48OLK6784 .navbar .icons-menu {
+    padding-left: 0;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+  }
+}
+.cid-s48OLK6784 .navbar.navbar-short {
+  min-height: 60px;
+}
+.cid-s48OLK6784 .navbar.navbar-short .navbar-logo img {
+  height: 3rem !important;
+}
+.cid-s48OLK6784 .navbar.navbar-short .navbar-brand {
+  padding: 0;
+}
+.cid-s48OLK6784 .navbar-brand {
+  flex-shrink: 0;
+  align-items: center;
+  margin-right: 0;
+  padding: 0;
+  transition: all .3s;
+  word-break: break-word;
+  z-index: 1;
+}
+.cid-s48OLK6784 .navbar-brand .navbar-caption {
+  line-height: inherit !important;
+}
+.cid-s48OLK6784 .navbar-brand .navbar-logo a {
+  outline: none;
+}
+.cid-s48OLK6784 .dropdown-item.active,
+.cid-s48OLK6784 .dropdown-item:active {
+  background-color: transparent;
+}
+.cid-s48OLK6784 .navbar-expand-lg .navbar-nav .nav-link {
+  padding: 0;
+}
+.cid-s48OLK6784 .nav-dropdown .link.dropdown-toggle {
+  margin-right: 1.667em;
+}
+.cid-s48OLK6784 .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
+  margin-right: 0;
+  padding: 0.667em 1.667em;
+}
+.cid-s48OLK6784 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
+  background: #ffffff;
+}
+.cid-s48OLK6784 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
+  margin: 0;
+  left: 100%;
+}
+.cid-s48OLK6784 .navbar .dropdown.open > .dropdown-menu {
+  display: block;
+}
+.cid-s48OLK6784 ul.navbar-nav {
+  flex-wrap: wrap;
+}
+.cid-s48OLK6784 .navbar-buttons {
+  text-align: center;
+  min-width: 170px;
+}
+.cid-s48OLK6784 button.navbar-toggler {
+  outline: none;
+  width: 31px;
+  height: 20px;
+  cursor: pointer;
+  transition: all .2s;
+  position: relative;
+  align-self: center;
+}
+.cid-s48OLK6784 button.navbar-toggler .hamburger span {
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 2px;
+  border-right: 5px;
+  background-color: currentColor;
+}
+.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(1) {
+  top: 0;
+  transition: all .2s;
+}
+.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(2) {
+  top: 8px;
+  transition: all .15s;
+}
+.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(3) {
+  top: 8px;
+  transition: all .15s;
+}
+.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(4) {
+  top: 16px;
+  transition: all .2s;
+}
+.cid-s48OLK6784 nav.opened .hamburger span:nth-child(1) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all .2s;
+}
+.cid-s48OLK6784 nav.opened .hamburger span:nth-child(2) {
+  transform: rotate(45deg);
+  transition: all .25s;
+}
+.cid-s48OLK6784 nav.opened .hamburger span:nth-child(3) {
+  transform: rotate(-45deg);
+  transition: all .25s;
+}
+.cid-s48OLK6784 nav.opened .hamburger span:nth-child(4) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all .2s;
+}
+.cid-s48OLK6784 .navbar-dropdown {
+  padding: .5rem 1rem;
+  position: fixed;
+}
+.cid-s48OLK6784 a.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cid-s48OLK6784 .icons-menu {
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.3rem;
+  text-align: center;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-s48OLK6784 .navbar {
+    height: 77px;
+  }
+  .cid-s48OLK6784 .navbar.opened {
+    height: auto;
+  }
+  .cid-s48OLK6784 .nav-item .nav-link:hover::before {
+    width: 175%;
+    max-width: calc(100% + 2rem);
+    left: -1rem;
+  }
+}
 .cid-s48MCQYojq {
   background-image: url("../../../assets/images/rsz-20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good.jpg");
 }
@@ -1258,446 +1600,6 @@ a {
 .cid-tjoE84UEDo .media-container-row .mbr-text {
   color: #bbbbbb;
 }
-.cid-s48OLK6784 {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-s48OLK6784 nav.navbar {
-  position: fixed;
-}
-.cid-s48OLK6784 .dropdown-item:before {
-  font-family: Moririse2 !important;
-  content: '\e966';
-  display: inline-block;
-  width: 0;
-  position: absolute;
-  left: 1rem;
-  top: 0.5rem;
-  margin-right: 0.5rem;
-  line-height: 1;
-  font-size: inherit;
-  vertical-align: middle;
-  text-align: center;
-  overflow: hidden;
-  transform: scale(0, 1);
-  transition: all 0.25s ease-in-out;
-}
-.cid-s48OLK6784 .dropdown-menu {
-  padding: 0;
-}
-.cid-s48OLK6784 .dropdown-item {
-  border-bottom: 1px solid #e6e6e6;
-}
-.cid-s48OLK6784 .dropdown-item:hover,
-.cid-s48OLK6784 .dropdown-item:focus {
-  background: #40b0bf !important;
-  color: white !important;
-}
-.cid-s48OLK6784 .nav-dropdown .link {
-  padding: 0 0.3em !important;
-  margin: .667em 1em !important;
-}
-.cid-s48OLK6784 .nav-dropdown .link.dropdown-toggle::after {
-  margin-left: 0.5rem;
-  margin-top: 0.2rem;
-}
-.cid-s48OLK6784 .nav-link {
-  position: relative;
-}
-.cid-s48OLK6784 .container {
-  display: flex;
-  margin: auto;
-}
-.cid-s48OLK6784 .iconfont-wrapper {
-  color: #000000 !important;
-  font-size: 1.5rem;
-  padding-right: .5rem;
-}
-.cid-s48OLK6784 .navbar-caption {
-  padding-right: 4rem;
-}
-.cid-s48OLK6784 .dropdown-menu,
-.cid-s48OLK6784 .navbar.opened {
-  background: #ffffff !important;
-}
-.cid-s48OLK6784 .nav-item:focus,
-.cid-s48OLK6784 .nav-link:focus {
-  outline: none;
-}
-.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item {
-  width: auto;
-  transition: all 0.25s ease-in-out;
-}
-.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item::after {
-  right: 0.5rem;
-}
-.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item .mbr-iconfont {
-  margin-left: -1.8rem;
-  padding-right: 1rem;
-  font-size: inherit;
-}
-.cid-s48OLK6784 .dropdown .dropdown-menu .dropdown-item .mbr-iconfont:before {
-  display: inline-block;
-  transform: scale(1, 1);
-  transition: all 0.25s ease-in-out;
-}
-.cid-s48OLK6784 .collapsed .dropdown-menu .dropdown-item:before {
-  display: none;
-}
-.cid-s48OLK6784 .collapsed .dropdown .dropdown-menu .dropdown-item {
-  padding: 0.235em 1.5em 0.235em 1.5em !important;
-  transition: none;
-  margin: 0 !important;
-}
-.cid-s48OLK6784 .navbar {
-  min-height: 77px;
-  transition: all .3s;
-  border-bottom: 1px solid transparent;
-  background: #ffffff;
-}
-.cid-s48OLK6784 .navbar:not(.navbar-short) {
-  border-bottom: 1px solid #e6e6e6;
-}
-.cid-s48OLK6784 .navbar.opened {
-  transition: all .3s;
-}
-.cid-s48OLK6784 .navbar .dropdown-item {
-  padding: .5rem 1.8rem;
-}
-.cid-s48OLK6784 .navbar .navbar-logo img {
-  width: auto;
-}
-.cid-s48OLK6784 .navbar .navbar-collapse {
-  justify-content: flex-end;
-  z-index: 1;
-}
-.cid-s48OLK6784 .navbar.collapsed .nav-item .nav-link::before {
-  display: none;
-}
-.cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
-  top: 0;
-}
-@media (min-width: 992px) {
-  .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
-.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
-  left: 0 !important;
-}
-.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-item:after {
-  right: auto;
-}
-.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
-  margin-left: 0.5rem;
-  margin-top: 0.2rem;
-  border-top: 0.35em solid;
-  border-right: 0.35em solid transparent;
-  border-left: 0.35em solid transparent;
-  border-bottom: 0;
-  top: 55%;
-}
-.cid-s48OLK6784 .navbar.collapsed ul.navbar-nav li {
-  margin: auto;
-}
-.cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-item {
-  padding: .25rem 1.5rem;
-  text-align: center;
-}
-.cid-s48OLK6784 .navbar.collapsed .icons-menu {
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-@media (max-width: 991px) {
-  .cid-s48OLK6784 .navbar .nav-item .nav-link::before {
-    display: none;
-  }
-  .cid-s48OLK6784 .navbar.opened .dropdown-menu {
-    top: 0;
-  }
-  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-submenu {
-    left: 0 !important;
-  }
-  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-item:after {
-    right: auto;
-  }
-  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
-    margin-left: 0.5rem;
-    margin-top: 0.2rem;
-    border-top: 0.35em solid;
-    border-right: 0.35em solid transparent;
-    border-left: 0.35em solid transparent;
-    border-bottom: 0;
-    top: 55%;
-  }
-  .cid-s48OLK6784 .navbar .navbar-logo img {
-    height: 3.8rem !important;
-  }
-  .cid-s48OLK6784 .navbar ul.navbar-nav li {
-    margin: auto;
-  }
-  .cid-s48OLK6784 .navbar .dropdown-menu .dropdown-item {
-    padding: .25rem 1.5rem !important;
-    text-align: center;
-  }
-  .cid-s48OLK6784 .navbar .navbar-brand {
-    flex-shrink: initial;
-    flex-basis: auto;
-    word-break: break-word;
-    padding-right: 2rem;
-  }
-  .cid-s48OLK6784 .navbar .navbar-toggler {
-    flex-basis: auto;
-  }
-  .cid-s48OLK6784 .navbar .icons-menu {
-    padding-left: 0;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-  }
-}
-.cid-s48OLK6784 .navbar.navbar-short {
-  min-height: 60px;
-}
-.cid-s48OLK6784 .navbar.navbar-short .navbar-logo img {
-  height: 3rem !important;
-}
-.cid-s48OLK6784 .navbar.navbar-short .navbar-brand {
-  padding: 0;
-}
-.cid-s48OLK6784 .navbar-brand {
-  flex-shrink: 0;
-  align-items: center;
-  margin-right: 0;
-  padding: 0;
-  transition: all .3s;
-  word-break: break-word;
-  z-index: 1;
-}
-.cid-s48OLK6784 .navbar-brand .navbar-caption {
-  line-height: inherit !important;
-}
-.cid-s48OLK6784 .navbar-brand .navbar-logo a {
-  outline: none;
-}
-.cid-s48OLK6784 .dropdown-item.active,
-.cid-s48OLK6784 .dropdown-item:active {
-  background-color: transparent;
-}
-.cid-s48OLK6784 .navbar-expand-lg .navbar-nav .nav-link {
-  padding: 0;
-}
-.cid-s48OLK6784 .nav-dropdown .link.dropdown-toggle {
-  margin-right: 1.667em;
-}
-.cid-s48OLK6784 .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
-  margin-right: 0;
-  padding: 0.667em 1.667em;
-}
-.cid-s48OLK6784 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
-}
-.cid-s48OLK6784 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
-  margin: 0;
-  left: 100%;
-}
-.cid-s48OLK6784 .navbar .dropdown.open > .dropdown-menu {
-  display: block;
-}
-.cid-s48OLK6784 ul.navbar-nav {
-  flex-wrap: wrap;
-}
-.cid-s48OLK6784 .navbar-buttons {
-  text-align: center;
-  min-width: 170px;
-}
-.cid-s48OLK6784 button.navbar-toggler {
-  outline: none;
-  width: 31px;
-  height: 20px;
-  cursor: pointer;
-  transition: all .2s;
-  position: relative;
-  align-self: center;
-}
-.cid-s48OLK6784 button.navbar-toggler .hamburger span {
-  position: absolute;
-  right: 0;
-  width: 30px;
-  height: 2px;
-  border-right: 5px;
-  background-color: currentColor;
-}
-.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(1) {
-  top: 0;
-  transition: all .2s;
-}
-.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(2) {
-  top: 8px;
-  transition: all .15s;
-}
-.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(3) {
-  top: 8px;
-  transition: all .15s;
-}
-.cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(4) {
-  top: 16px;
-  transition: all .2s;
-}
-.cid-s48OLK6784 nav.opened .hamburger span:nth-child(1) {
-  top: 8px;
-  width: 0;
-  opacity: 0;
-  right: 50%;
-  transition: all .2s;
-}
-.cid-s48OLK6784 nav.opened .hamburger span:nth-child(2) {
-  transform: rotate(45deg);
-  transition: all .25s;
-}
-.cid-s48OLK6784 nav.opened .hamburger span:nth-child(3) {
-  transform: rotate(-45deg);
-  transition: all .25s;
-}
-.cid-s48OLK6784 nav.opened .hamburger span:nth-child(4) {
-  top: 8px;
-  width: 0;
-  opacity: 0;
-  right: 50%;
-  transition: all .2s;
-}
-.cid-s48OLK6784 .navbar-dropdown {
-  padding: .5rem 1rem;
-  position: fixed;
-}
-.cid-s48OLK6784 a.nav-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.cid-s48OLK6784 .icons-menu {
-  flex-wrap: nowrap;
-  display: flex;
-  justify-content: center;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.3rem;
-  text-align: center;
-}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-s48OLK6784 .navbar {
-    height: 77px;
-  }
-  .cid-s48OLK6784 .navbar.opened {
-    height: auto;
-  }
-  .cid-s48OLK6784 .nav-item .nav-link:hover::before {
-    width: 175%;
-    max-width: calc(100% + 2rem);
-    left: -1rem;
-  }
-}
-.cid-tjoDyeuFEn {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tjoDyeuFEn .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tjoDyeuFEn .mbr-text,
-.cid-tjoDyeuFEn .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tjoDyeuFEn .mbr-section-title,
-  .cid-tjoDyeuFEn .mbr-section-btn,
-  .cid-tjoDyeuFEn .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tjoDyfyzVE {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tjoDyfyzVE .mbr-section-title {
-  text-align: left;
-}
-.cid-tjoDyfyzVE .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-tjoDyfyzVE .mbr-section-subtitle P {
-  text-align: left;
-}
-.cid-tkDlUDJL15 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkDlUDJL15 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDlUDJL15 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tkDlUDJL15 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tkDlUDJL15 img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tkDlUDJL15 .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-tkDmfVLgsH {
-  padding-top: 6rem;
-  padding-bottom: 10rem;
-  background-color: #ffffff;
-}
-.cid-tkDmfVLgsH .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDmfVLgsH .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tkDmfVLgsH .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tkDmfVLgsH .row {
-  flex-direction: row-reverse;
-}
-.cid-tkDmfVLgsH img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tkDmfVLgsH .text-wrapper {
-    padding: 2rem;
-  }
-}
 .cid-tjoDyhs4lz {
   z-index: 1000;
   width: 100%;
@@ -2040,6 +1942,104 @@ a {
     left: -1rem;
   }
 }
+.cid-tjoDyeuFEn {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tjoDyeuFEn .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tjoDyeuFEn .mbr-text,
+.cid-tjoDyeuFEn .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tjoDyeuFEn .mbr-section-title,
+  .cid-tjoDyeuFEn .mbr-section-btn,
+  .cid-tjoDyeuFEn .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tjoDyfyzVE {
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tjoDyfyzVE .mbr-section-title {
+  text-align: left;
+}
+.cid-tjoDyfyzVE .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-tjoDyfyzVE .mbr-section-subtitle P {
+  text-align: left;
+}
+.cid-tkDlUDJL15 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkDlUDJL15 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDlUDJL15 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tkDlUDJL15 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tkDlUDJL15 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tkDlUDJL15 .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tkDmfVLgsH {
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
+.cid-tkDmfVLgsH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDmfVLgsH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tkDmfVLgsH .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tkDmfVLgsH .row {
+  flex-direction: row-reverse;
+}
+.cid-tkDmfVLgsH img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tkDmfVLgsH .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-tjoE84UEDo {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -2111,124 +2111,6 @@ a {
 }
 .cid-tjoE84UEDo .media-container-row .mbr-text {
   color: #bbbbbb;
-}
-.cid-tjtFJegCJC {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tjtFJegCJC .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tjtFJegCJC .mbr-text,
-.cid-tjtFJegCJC .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tjtFJegCJC .mbr-section-title,
-  .cid-tjtFJegCJC .mbr-section-btn,
-  .cid-tjtFJegCJC .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tkwsmMP4bl {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkwsmMP4bl .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkwsmMP4bl .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tkwsmMP4bl .content-wrapper {
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-tkwsmMP4bl .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-tkwsmMP4bl .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tkwsmMP4bl .content-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-tkwsmMP4bl .content-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tkwsmMP4bl .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-tkwsmMP4bl .content-wrapper .text-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-tkwsmMP4bl .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-tkwsnuYoFX {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkwsnuYoFX .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkwsnuYoFX .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tkwsnuYoFX .content-wrapper {
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-tkwsnuYoFX .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tkwsnuYoFX .content-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-tkwsnuYoFX .content-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tkwsnuYoFX .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-tkwsnuYoFX .content-wrapper .text-wrapper {
-    padding-left: 2rem;
-  }
-}
-.cid-tkwsnuYoFX .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
 }
 .cid-tjtFJn3mbC {
   z-index: 1000;
@@ -2572,6 +2454,124 @@ a {
     left: -1rem;
   }
 }
+.cid-tjtFJegCJC {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tjtFJegCJC .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tjtFJegCJC .mbr-text,
+.cid-tjtFJegCJC .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tjtFJegCJC .mbr-section-title,
+  .cid-tjtFJegCJC .mbr-section-btn,
+  .cid-tjtFJegCJC .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tkwsmMP4bl {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkwsmMP4bl .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkwsmMP4bl .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tkwsmMP4bl .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-tkwsmMP4bl .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tkwsmMP4bl .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tkwsmMP4bl .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tkwsmMP4bl .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tkwsmMP4bl .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-tkwsmMP4bl .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-tkwsmMP4bl .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tkwsnuYoFX {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkwsnuYoFX .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkwsnuYoFX .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tkwsnuYoFX .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-tkwsnuYoFX .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tkwsnuYoFX .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tkwsnuYoFX .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tkwsnuYoFX .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-tkwsnuYoFX .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
+}
+.cid-tkwsnuYoFX .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-tjtFJoxG9z {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -2643,183 +2643,6 @@ a {
 }
 .cid-tjtFJoxG9z .media-container-row .mbr-text {
   color: #bbbbbb;
-}
-.cid-tjtFMdd0oN {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tjtFMdd0oN .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tjtFMdd0oN .mbr-text,
-.cid-tjtFMdd0oN .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tjtFMdd0oN .mbr-section-title,
-  .cid-tjtFMdd0oN .mbr-section-btn,
-  .cid-tjtFMdd0oN .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tjuXkhT10z {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tjuXkhT10z .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tjuXkhT10z .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tjuXkhT10z .item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 2rem;
-  align-items: flex-start;
-}
-@media (min-width: 991px) {
-  .cid-tjuXkhT10z .item {
-    margin-bottom: 4rem;
-  }
-}
-.cid-tjuXkhT10z .item:last-child .icon-box:before {
-  display: none;
-}
-.cid-tjuXkhT10z .item.last .icon-box:before {
-  display: none;
-}
-.cid-tjuXkhT10z .icon-box {
-  background: #40b0bf;
-  width: 60px;
-  min-width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  margin-right: 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-}
-@media (max-width: 768px) {
-  .cid-tjuXkhT10z .icon-box {
-    margin-right: 1rem;
-  }
-}
-.cid-tjuXkhT10z span {
-  font-size: 2rem;
-  color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-tjuXkhT10z .card {
-    margin-bottom: 2rem;
-  }
-  .cid-tjuXkhT10z .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-tkDr5JOtnR {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkDr5JOtnR .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDr5JOtnR .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tkDr5JOtnR .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tkDr5JOtnR img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tkDr5JOtnR .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-tkDrArmI31 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkDrArmI31 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDrArmI31 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tkDrArmI31 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tkDrArmI31 .row {
-  flex-direction: row-reverse;
-}
-.cid-tkDrArmI31 img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tkDrArmI31 .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-tkDt0dBEJ2 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkDt0dBEJ2 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDt0dBEJ2 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tkDt0dBEJ2 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tkDt0dBEJ2 img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tkDt0dBEJ2 .text-wrapper {
-    padding: 2rem;
-  }
 }
 .cid-tjtFMg10uO {
   z-index: 1000;
@@ -3163,6 +2986,183 @@ a {
     left: -1rem;
   }
 }
+.cid-tjtFMdd0oN {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tjtFMdd0oN .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tjtFMdd0oN .mbr-text,
+.cid-tjtFMdd0oN .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tjtFMdd0oN .mbr-section-title,
+  .cid-tjtFMdd0oN .mbr-section-btn,
+  .cid-tjtFMdd0oN .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tjuXkhT10z {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tjuXkhT10z .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tjuXkhT10z .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tjuXkhT10z .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+@media (min-width: 991px) {
+  .cid-tjuXkhT10z .item {
+    margin-bottom: 4rem;
+  }
+}
+.cid-tjuXkhT10z .item:last-child .icon-box:before {
+  display: none;
+}
+.cid-tjuXkhT10z .item.last .icon-box:before {
+  display: none;
+}
+.cid-tjuXkhT10z .icon-box {
+  background: #40b0bf;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+@media (max-width: 768px) {
+  .cid-tjuXkhT10z .icon-box {
+    margin-right: 1rem;
+  }
+}
+.cid-tjuXkhT10z span {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tjuXkhT10z .card {
+    margin-bottom: 2rem;
+  }
+  .cid-tjuXkhT10z .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tkDr5JOtnR {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkDr5JOtnR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDr5JOtnR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tkDr5JOtnR .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tkDr5JOtnR img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tkDr5JOtnR .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tkDrArmI31 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkDrArmI31 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDrArmI31 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tkDrArmI31 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tkDrArmI31 .row {
+  flex-direction: row-reverse;
+}
+.cid-tkDrArmI31 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tkDrArmI31 .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tkDt0dBEJ2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkDt0dBEJ2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDt0dBEJ2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tkDt0dBEJ2 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tkDt0dBEJ2 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tkDt0dBEJ2 .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-tjuZ6oRTTg {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -3259,74 +3259,6 @@ a {
 }
 .cid-tjtFMgQvFF .media-container-row .mbr-text {
   color: #bbbbbb;
-}
-.cid-tjtFODtETX {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tjtFODtETX .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tjtFODtETX .mbr-text,
-.cid-tjtFODtETX .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tjtFODtETX .mbr-section-title,
-  .cid-tjtFODtETX .mbr-section-btn,
-  .cid-tjtFODtETX .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tkDtAleZQc {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tkDtAleZQc .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDtAleZQc .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tkDtAleZQc .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tkDtAleZQc img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tkDtAleZQc .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-tkDwrA6QtP {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tkDwrA6QtP .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tkDwrA6QtP .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
 }
 .cid-tjtFOGqvHN {
   z-index: 1000;
@@ -3670,6 +3602,74 @@ a {
     left: -1rem;
   }
 }
+.cid-tjtFODtETX {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tjtFODtETX .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tjtFODtETX .mbr-text,
+.cid-tjtFODtETX .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tjtFODtETX .mbr-section-title,
+  .cid-tjtFODtETX .mbr-section-btn,
+  .cid-tjtFODtETX .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tkDtAleZQc {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tkDtAleZQc .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDtAleZQc .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tkDtAleZQc .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tkDtAleZQc img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tkDtAleZQc .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tkDwrA6QtP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tkDwrA6QtP .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkDwrA6QtP .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-tjtFOHVb3T {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -3741,72 +3741,6 @@ a {
 }
 .cid-tjtFOHVb3T .media-container-row .mbr-text {
   color: #bbbbbb;
-}
-.cid-tjtFTMQuP6 {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tjtFTMQuP6 .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tjtFTMQuP6 .mbr-text,
-.cid-tjtFTMQuP6 .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tjtFTMQuP6 .mbr-section-title,
-  .cid-tjtFTMQuP6 .mbr-section-btn,
-  .cid-tjtFTMQuP6 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tjuQIlllVs {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tjuQIlllVs .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tjuQIlllVs .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tjuQIlllVs .item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 2rem;
-}
-.cid-tjuQIlllVs .icon-box {
-  background: #40b0bf;
-  width: 60px;
-  min-width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  margin-right: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-tjuQIlllVs .mbr-iconfont {
-  font-size: 2rem;
-  color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-tjuQIlllVs .card {
-    margin-bottom: 2rem;
-  }
-  .cid-tjuQIlllVs .card-wrapper {
-    margin-bottom: 2rem;
-  }
 }
 .cid-tjtFTPfMsT {
   z-index: 1000;
@@ -4150,6 +4084,72 @@ a {
     left: -1rem;
   }
 }
+.cid-tjtFTMQuP6 {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tjtFTMQuP6 .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tjtFTMQuP6 .mbr-text,
+.cid-tjtFTMQuP6 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tjtFTMQuP6 .mbr-section-title,
+  .cid-tjtFTMQuP6 .mbr-section-btn,
+  .cid-tjtFTMQuP6 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tjuQIlllVs {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tjuQIlllVs .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tjuQIlllVs .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tjuQIlllVs .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-tjuQIlllVs .icon-box {
+  background: #40b0bf;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-tjuQIlllVs .mbr-iconfont {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tjuQIlllVs .card {
+    margin-bottom: 2rem;
+  }
+  .cid-tjuQIlllVs .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
 .cid-tjzopnIUIc {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -4311,259 +4311,6 @@ a {
 }
 .cid-tjtFTQFEEo .media-container-row .mbr-text {
   color: #bbbbbb;
-}
-.cid-tjtFVaT61Q {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tjtFVaT61Q .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tjtFVaT61Q .mbr-text,
-.cid-tjtFVaT61Q .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tjtFVaT61Q .mbr-section-title,
-  .cid-tjtFVaT61Q .mbr-section-btn,
-  .cid-tjtFVaT61Q .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tjuliRaof4 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tjuliRaof4 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tjuliRaof4 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tjuliRaof4 .image-wrapper {
-  display: flex;
-  align-items: center;
-}
-.cid-tjuliRaof4 .card-wrapper {
-  margin-bottom: 2rem;
-  display: flex;
-  border-radius: 4px;
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-tjuliRaof4 .card-wrapper {
-    padding: 1rem 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tjuliRaof4 .card-wrapper {
-    padding: 2rem 4rem;
-  }
-}
-.cid-tjuliRaof4 .mbr-iconfont {
-  font-size: 2rem;
-  padding-right: 1.5rem;
-  color: #40b0bf;
-}
-.cid-tjukwb9THm {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tjukwb9THm .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tjukwb9THm .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tjukwb9THm .embla__slide {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  min-width: 570px;
-  max-width: 570px;
-}
-@media (max-width: 768px) {
-  .cid-tjukwb9THm .embla__slide {
-    min-width: 70%;
-    max-width: initial;
-    margin-left: 1rem !important;
-    margin-right: 1rem !important;
-  }
-}
-.cid-tjukwb9THm .embla__button--next,
-.cid-tjukwb9THm .embla__button--prev {
-  display: flex;
-}
-.cid-tjukwb9THm .embla__button {
-  top: 50%;
-  width: 60px;
-  height: 60px;
-  margin-top: -1.5rem;
-  font-size: 22px;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: #fff;
-  border: 2px solid #fff;
-  border-radius: 50%;
-  transition: all 0.3s;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-@media (max-width: 768px) {
-  .cid-tjukwb9THm .embla__button {
-    display: none;
-  }
-}
-.cid-tjukwb9THm .embla__button:disabled {
-  cursor: default;
-  display: none;
-}
-.cid-tjukwb9THm .embla__button:hover {
-  background: #000;
-  color: rgba(255, 255, 255, 0.5);
-}
-.cid-tjukwb9THm .embla__button.embla__button--prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-tjukwb9THm .embla__button.embla__button--next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-@media (max-width: 768px) {
-  .cid-tjukwb9THm .embla__button {
-    top: auto;
-  }
-}
-.cid-tjukwb9THm .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-tjukwb9THm .user_image .item-wrapper {
-  width: 200px;
-  height: 200px;
-}
-.cid-tjukwb9THm .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-  object-fit: cover;
-}
-@media (max-width: 230px) {
-  .cid-tjukwb9THm .user_image {
-    width: 100%;
-    height: auto;
-  }
-}
-.cid-tjukwb9THm .embla {
-  position: relative;
-  width: 100%;
-}
-.cid-tjukwb9THm .embla__viewport {
-  overflow: hidden;
-  width: 100%;
-}
-.cid-tjukwb9THm .embla__viewport.is-draggable {
-  cursor: grab;
-}
-.cid-tjukwb9THm .embla__viewport.is-dragging {
-  cursor: grabbing;
-}
-.cid-tjukwb9THm .embla__container {
-  display: flex;
-  user-select: none;
-  -webkit-touch-callout: none;
-  -khtml-user-select: none;
-  -webkit-tap-highlight-color: transparent;
-}
-.cid-tjzw8X0zAY {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tjzw8X0zAY .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-tjzw8X0zAY form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-tjzw8X0zAY form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-tjzw8X0zAY form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-tjuDHCuPwh {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tjuDHCuPwh .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tjuDHCuPwh .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tjuDHCuPwh .bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
-}
-.cid-tjuDHCuPwh .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-tjuDHCuPwh .bg-instagram {
-  background: #f00075;
-  color: #ffffff;
-}
-.cid-tjuDHCuPwh .bg-instagram:hover {
-  background: #bd005c;
-}
-.cid-tjuDHCuPwh .iconfont-wrapper {
-  display: inline-block;
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  text-align: center;
-  transition: all 0.3s ease-in-out;
-}
-.cid-tjuDHCuPwh [class^="socicon-"]:before,
-.cid-tjuDHCuPwh [class*=" socicon-"]:before {
-  line-height: 55px;
-  padding: .6rem;
 }
 .cid-tjtFVhZyMj {
   z-index: 1000;
@@ -4907,6 +4654,259 @@ a {
     left: -1rem;
   }
 }
+.cid-tjtFVaT61Q {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tjtFVaT61Q .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tjtFVaT61Q .mbr-text,
+.cid-tjtFVaT61Q .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tjtFVaT61Q .mbr-section-title,
+  .cid-tjtFVaT61Q .mbr-section-btn,
+  .cid-tjtFVaT61Q .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tjuliRaof4 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tjuliRaof4 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tjuliRaof4 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tjuliRaof4 .image-wrapper {
+  display: flex;
+  align-items: center;
+}
+.cid-tjuliRaof4 .card-wrapper {
+  margin-bottom: 2rem;
+  display: flex;
+  border-radius: 4px;
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-tjuliRaof4 .card-wrapper {
+    padding: 1rem 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tjuliRaof4 .card-wrapper {
+    padding: 2rem 4rem;
+  }
+}
+.cid-tjuliRaof4 .mbr-iconfont {
+  font-size: 2rem;
+  padding-right: 1.5rem;
+  color: #40b0bf;
+}
+.cid-tjukwb9THm {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tjukwb9THm .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tjukwb9THm .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tjukwb9THm .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 570px;
+  max-width: 570px;
+}
+@media (max-width: 768px) {
+  .cid-tjukwb9THm .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-tjukwb9THm .embla__button--next,
+.cid-tjukwb9THm .embla__button--prev {
+  display: flex;
+}
+.cid-tjukwb9THm .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-tjukwb9THm .embla__button {
+    display: none;
+  }
+}
+.cid-tjukwb9THm .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tjukwb9THm .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tjukwb9THm .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tjukwb9THm .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 768px) {
+  .cid-tjukwb9THm .embla__button {
+    top: auto;
+  }
+}
+.cid-tjukwb9THm .user_image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto 2rem auto;
+}
+.cid-tjukwb9THm .user_image .item-wrapper {
+  width: 200px;
+  height: 200px;
+}
+.cid-tjukwb9THm .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+@media (max-width: 230px) {
+  .cid-tjukwb9THm .user_image {
+    width: 100%;
+    height: auto;
+  }
+}
+.cid-tjukwb9THm .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tjukwb9THm .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tjukwb9THm .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tjukwb9THm .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tjukwb9THm .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.cid-tjzw8X0zAY {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tjzw8X0zAY .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-tjzw8X0zAY form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-tjzw8X0zAY form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-tjzw8X0zAY form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-tjuDHCuPwh {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tjuDHCuPwh .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tjuDHCuPwh .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tjuDHCuPwh .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-tjuDHCuPwh .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-tjuDHCuPwh .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-tjuDHCuPwh .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-tjuDHCuPwh .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-tjuDHCuPwh [class^="socicon-"]:before,
+.cid-tjuDHCuPwh [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-tjtFVjxjIp {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -4978,44 +4978,6 @@ a {
 }
 .cid-tjtFVjxjIp .media-container-row .mbr-text {
   color: #bbbbbb;
-}
-.cid-tzJaGMGalS {
-  padding-top: 7rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
-}
-.cid-tzJaGMGalS .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tzJaGMGalS .mbr-text,
-.cid-tzJaGMGalS .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-tzJaGMGalS .mbr-section-title,
-  .cid-tzJaGMGalS .mbr-section-btn,
-  .cid-tzJaGMGalS .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tzJdex9HSM {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tzJdex9HSM .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tzJdex9HSM .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
 }
 .cid-tzJaGONJXn {
   z-index: 1000;
@@ -5359,6 +5321,82 @@ a {
     left: -1rem;
   }
 }
+.cid-tzJaGMGalS {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/20220219-134524-edge-ultimate-frisbee-tournament-tyrel-good-30.jpg");
+}
+.cid-tzJaGMGalS .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tzJaGMGalS .mbr-text,
+.cid-tzJaGMGalS .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tzJaGMGalS .mbr-section-title,
+  .cid-tzJaGMGalS .mbr-section-btn,
+  .cid-tzJaGMGalS .mbr-text {
+    text-align: center;
+  }
+}
+.cid-u7JOFfhcOw {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u7JOFfhcOw .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u7JOFfhcOw .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-u7JOFfhcOw .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u7JOFfhcOw .row {
+  flex-direction: row-reverse;
+}
+.cid-u7JOFfhcOw img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-u7JOFfhcOw .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tzJdex9HSM {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tzJdex9HSM .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tzJdex9HSM .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u7JMzRKFa3 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
 .cid-tzJk9ebNws {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5462,4 +5500,14 @@ a {
 }
 .cid-tzJaGSBY88 .media-container-row .mbr-text {
   color: #bbbbbb;
+}
+.cid-u7JMydmr2H {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-u7JMzdewDy {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
