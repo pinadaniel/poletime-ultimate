@@ -1078,6 +1078,111 @@ a {
   font-size: 2rem;
   width: 1.6rem;
 }
+.cid-uof5FXbi3t {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-uof5FXbi3t img,
+.cid-uof5FXbi3t .item-img {
+  width: 100%;
+}
+.cid-uof5FXbi3t .item:focus,
+.cid-uof5FXbi3t span:focus {
+  outline: none;
+}
+.cid-uof5FXbi3t .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-uof5FXbi3t .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uof5FXbi3t .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uof5FXbi3t .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-uof5FXbi3t .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uof5FXbi3t .mbr-section-title {
+  color: #232323;
+}
+.cid-uof5FXbi3t .mbr-text,
+.cid-uof5FXbi3t .mbr-section-btn {
+  text-align: center;
+}
+.cid-uof5FXbi3t .item-title {
+  text-align: center;
+}
+.cid-uof5FXbi3t .item-subtitle {
+  text-align: center;
+}
+.cid-uof5W2S9Wg {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-uof5W2S9Wg img,
+.cid-uof5W2S9Wg .item-img {
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-uof5W2S9Wg .item:focus,
+.cid-uof5W2S9Wg span:focus {
+  outline: none;
+}
+.cid-uof5W2S9Wg .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-uof5W2S9Wg .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uof5W2S9Wg .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uof5W2S9Wg .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-uof5W2S9Wg .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uof5W2S9Wg .mbr-section-title {
+  color: #232323;
+}
+.cid-uof5W2S9Wg .mbr-text,
+.cid-uof5W2S9Wg .mbr-section-btn {
+  text-align: center;
+}
+.cid-uof5W2S9Wg .item-title {
+  text-align: center;
+}
+.cid-uof5W2S9Wg .item-subtitle {
+  text-align: center;
+  color: #232323;
+}
 .cid-u4n1uD6zTR {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -2571,6 +2676,9 @@ a {
 .cid-tkwsnuYoFX .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-tkwsnuYoFX .card-title {
+  text-align: left;
 }
 .cid-tjtFJoxG9z {
   padding-top: 2rem;
